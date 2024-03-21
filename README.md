@@ -1,1 +1,1 @@
-# RAG-Stack-using-DSPy-Qdrant-Mistral-7B
+# RAG-Stack-using-all-MiniLM-L12-v2-Qdrant-Mistral-7B
