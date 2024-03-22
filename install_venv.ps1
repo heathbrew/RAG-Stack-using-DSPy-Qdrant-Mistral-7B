@@ -33,6 +33,8 @@ pip install faiss-cpu  # For CPU
 # installing quadrant client
 pip install qdrant-client
 pip install dspy-ai[qdrant]
+pip install hf-hub-ctranslate2
+pip install hf_hub_ctranslate2[sentence_transformers]
 
 
 
